@@ -1,0 +1,9 @@
+{
+    "ConnectionString": "postgres://postgres:1234@localhost:5432/faucet?sslmode=disable",
+    "jwt-key": "--",
+    "jwt-issuer": "--",
+    "Port": ":4445",
+    "Ledger": "--",
+    "LedgerPublic": "--",
+    "RPC": "--"
+}
